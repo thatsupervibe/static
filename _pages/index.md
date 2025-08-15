@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-<a href="https://thatsupervibe.com/"><img src="/assets/supervibe sticker logo.png"/></a>
+<a href="https://thatsupervibe.com/"><img src="/assets/6133_Glitch3.png"/></a>
 <h2 style="text-align:center;">SUPERVIBE is Officially providing Flow Cubes at:</h2>
 
 <h1 style="text-align:center;"><a href="https://thatsupervibe.com/">thatsupervibe.com</a></h1>
